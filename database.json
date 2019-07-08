@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/pbabell/RBELabCustomParts.git": [
+      "pbabell/RBELabCustomParts",
+      "1562599603547"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
