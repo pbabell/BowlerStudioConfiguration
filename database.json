@@ -6,7 +6,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/pbabell/RBELabCustomParts.git:RBE1001FoamMetalController.groovy": [
+      "https://github.com/pbabell/RBELabCustomParts.git",
+      "RBE1001FoamMetalController.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
     "fontsize": 12.0,
