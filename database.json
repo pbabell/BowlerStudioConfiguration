@@ -19,6 +19,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/274e0835e50bf27e3a5dd175713d9199.git:RBE1001FlatList.groovy": [
+      "https://gist.github.com/274e0835e50bf27e3a5dd175713d9199.git",
+      "RBE1001FlatList.groovy"
+    ],
     "https://github.com/pbabell/RBELabCustomParts.git:RBE1001FoamMetalController.groovy": [
       "https://github.com/pbabell/RBELabCustomParts.git",
       "RBE1001FoamMetalController.groovy"
