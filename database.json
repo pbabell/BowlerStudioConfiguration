@@ -26,6 +26,10 @@
     "https://github.com/pbabell/RBELabCustomParts.git:RBE1001FoamMetalController.groovy": [
       "https://github.com/pbabell/RBELabCustomParts.git",
       "RBE1001FoamMetalController.groovy"
+    ],
+    "https://github.com/pbabell/RBELabCustomParts.git:motorMountPlate.groovy": [
+      "https://github.com/pbabell/RBELabCustomParts.git",
+      "motorMountPlate.groovy"
     ]
   },
   "BowlerStudioConfigs": {
