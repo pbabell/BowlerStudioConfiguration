@@ -12,6 +12,10 @@
       "GIST: cylinder.groovy",
       "1580851936016"
     ],
+    "https://github.com/pbabell/BoltSorter.git": [
+      "pbabell/BoltSorter",
+      "1580851978583"
+    ],
     "https://gist.github.com/0b479f282e91f27ab88fbdc20fcbd218.git": [
       "GIST: cube.groovy",
       "1580849785282"
@@ -22,6 +26,10 @@
     "https://gist.github.com/a2290603e1dbd6e6dd61bcccd6cd9504.git:cylinder.groovy": [
       "https://gist.github.com/a2290603e1dbd6e6dd61bcccd6cd9504.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/pbabell/BoltSorter.git:PaddleWheel.groovy": [
+      "https://github.com/pbabell/BoltSorter.git",
+      "PaddleWheel.groovy"
     ]
   },
   "BowlerStudioConfigs": {
