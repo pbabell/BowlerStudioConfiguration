@@ -15,26 +15,14 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/0b479f282e91f27ab88fbdc20fcbd218.git:cube.groovy": [
-      "https://gist.github.com/0b479f282e91f27ab88fbdc20fcbd218.git",
-      "cube.groovy"
-    ],
-    "https://gist.github.com/274e0835e50bf27e3a5dd175713d9199.git:RBE1001FlatList.groovy": [
-      "https://gist.github.com/274e0835e50bf27e3a5dd175713d9199.git",
-      "RBE1001FlatList.groovy"
-    ],
-    "https://github.com/pbabell/RBELabCustomParts.git:RBE1001FoamMetalController.groovy": [
-      "https://github.com/pbabell/RBELabCustomParts.git",
-      "RBE1001FoamMetalController.groovy"
-    ],
-    "https://github.com/pbabell/RBELabCustomParts.git:motorMountPlate.groovy": [
-      "https://github.com/pbabell/RBELabCustomParts.git",
-      "motorMountPlate.groovy"
+    "https://gist.github.com/a2290603e1dbd6e6dd61bcccd6cd9504.git:cylinder.groovy": [
+      "https://gist.github.com/a2290603e1dbd6e6dd61bcccd6cd9504.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.28.1",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "0.32.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
