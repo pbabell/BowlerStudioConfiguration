@@ -33,9 +33,10 @@
     "firstVersion": "0.28.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
-    "skinBranch": "0.32.6",
+    "fontsize": 12.0,
+    "skinBranch": "1.4.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.4.2"
   }
 }
