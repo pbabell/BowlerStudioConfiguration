@@ -23,6 +23,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/8280711f904b7bf942b75e0b80ed2df9.git:TheCalledScript.groovy": [
+      "https://gist.github.com/8280711f904b7bf942b75e0b80ed2df9.git",
+      "TheCalledScript.groovy"
+    ],
     "https://github.com/pbabell/BoltSorter.git:PaddleWheel.groovy": [
       "https://github.com/pbabell/BoltSorter.git",
       "PaddleWheel.groovy"
